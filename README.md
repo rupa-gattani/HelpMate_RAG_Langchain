@@ -26,4 +26,4 @@ The application can be run locally using VS Code or a terminal using the followi
 - Ask questions
 - View answers with source pages
 
-a
+
