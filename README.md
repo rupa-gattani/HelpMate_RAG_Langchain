@@ -3,7 +3,7 @@
 
 ## 1. Clone the Repository
 
-`git clone <repo-url>`
+`git clone https://github.com/rupa-gattani/HelpMate_RAG_Langchain.git`
 `cd HelpMate_RAG_Langchain`
 
 ## 2. Set Up Environment
